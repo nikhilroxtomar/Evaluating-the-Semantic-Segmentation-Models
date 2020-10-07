@@ -1,1 +1,1 @@
-# Evaluating-the-Semantic-Segmentation-Models
+# Evaluating the Semantic Segmentation Models
