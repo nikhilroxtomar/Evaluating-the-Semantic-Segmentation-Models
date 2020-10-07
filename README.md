@@ -1,6 +1,9 @@
 # Evaluating the Semantic Segmentation Models
 A simple code to evaluate the semantic segmentation models using the sklearn library and save the results in a csv file.
 
+## Video
+For more watch the video: [https://youtu.be/zLNkJqVZiiU](https://youtu.be/zLNkJqVZiiU)
+
 ## Contact:
 For more follow me on:
 
